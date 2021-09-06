@@ -71,7 +71,7 @@ In addition, a total of 24,980 different IP address occurrences were observed.
 
  | Type | Nym Of Apps ||
 ----|---:|---:
-| Coded both | 63,298  ||
+| Coded both | 63,298  |>|
 | (For IPv4, coded only 0.0.0.0) || 483  |
 | (For IPv4, coded only global) || 16,590  |
 | (For IPv4, coded only private) || 3,417  |

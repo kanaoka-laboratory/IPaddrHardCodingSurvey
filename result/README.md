@@ -52,7 +52,7 @@ In addition, a total of 24,980 different IP address occurrences were observed.
 
 *Therefore, in this study, we decided to treat the number of occurrences as a reference and not analyze or discuss the situation based on the size of the value.*
 
-### Number of strings identified as IPv4 addresses with the highest number of occurrences
+### Number of strings identified as IPv6 addresses with the highest number of occurrences
 
 | Address | Num of appearances |
 ----|---:
@@ -67,3 +67,13 @@ In addition, a total of 24,980 different IP address occurrences were observed.
 | de:: | 761  |
 | aded:: | 565  |
  
+ ## Application with hard-coded IPv4 and IPv6 addresses
+
+ | Type | Nym Of Apps ||
+----|---:|---:
+| Coded both | 63,298  ||
+| (For IPv4, coded only 0.0.0.0) || 483  |
+| (For IPv4, coded only global) || 16,590  |
+| (For IPv4, coded only private) || 3,417  |
+| Coded IPv4 only | 121,056 ||
+| Coded IPv6 only | 27,825 ||
